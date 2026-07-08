@@ -115,11 +115,13 @@ The entire result can be copied with a single button.
 
 ## Screenshots
 
-```
-assets/screenshots/home.jpeg
+### Home Screen
 
-assets/screenshots/result.jpeg
-```
+![Home Screen](assets/screenshot/home.jpeg)
+
+### Result Screen
+
+![Result Screen](assets/screenshot/result.jpeg)
 
 Example:
 
