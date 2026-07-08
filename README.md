@@ -115,13 +115,10 @@ The entire result can be copied with a single button.
 
 ## Screenshots
 
-### Home Screen
-
-![Home Screen](assets/screenshot/home.jpeg)
-
-### Result Screen
-
-![Result Screen](assets/screenshot/result.jpeg)
+<p align="center">
+  <img src="assets/screenshot/home.jpeg" width="250">
+  <img src="assets/screenshot/result.jpeg" width="250">
+</p>
 
 Example:
 
