@@ -115,12 +115,10 @@ The entire result can be copied with a single button.
 
 ## Screenshots
 
-Add your screenshots here.
-
 ```
-assets/screenshots/home.png
+assets/screenshots/home.jpeg
 
-assets/screenshots/result.png
+assets/screenshots/result.jpeg
 ```
 
 Example:
