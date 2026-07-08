@@ -130,6 +130,11 @@ Example:
 | Add Screenshot | Add Screenshot |
 
 ---
+## Download
+
+Download the latest Android APK from the GitHub Releases page.
+
+[Download Latest APK](https://github.com/Rakib-Akanda/Smart_BMI/releases/latest)
 
 ## Getting Started
 
